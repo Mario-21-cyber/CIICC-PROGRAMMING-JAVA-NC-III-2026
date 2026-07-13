@@ -68,12 +68,6 @@ I enjoy designing and developing modern web applications that are clean, respons
 
 ✔ UI/UX Design
 
-✔ Dashboard Development
-
-✔ Document Management Systems
-
-✔ Version Control using Git & GitHub
-
 ---
 
 # 💼 Featured Projects
