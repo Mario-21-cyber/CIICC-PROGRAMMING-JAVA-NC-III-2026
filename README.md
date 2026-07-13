@@ -95,6 +95,7 @@ Developed in City Government of Makati during my internship to digitize document
 
 **Tech Used**
 
+- Laravel
 - PHP
 - MySQL
 - HTML
