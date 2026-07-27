@@ -13,5 +13,6 @@ public class Task2 {
         String output = "" + c + 3 + s + i + " w" + b + "rld " + f + " " + bool;
 
         System.out.println(output);
+        
     }
 }
