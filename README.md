@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm John Matthew Malabanan
 
-### Aspiring Full Stack Web Developer 🇵🇭
+### Aspiring Software Engineer 🇵🇭
 
 <p>
 I enjoy designing and developing modern web applications that are clean, responsive, and user-focused. I continuously improve my skills by building real-world projects and exploring new technologies.
